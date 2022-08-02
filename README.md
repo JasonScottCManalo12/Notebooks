@@ -275,3 +275,25 @@ Managerial Skill - Conceptual, Human Relations and Technical
 		--> ability to take quick andn correct decisions
 		--> ability to implement decision wisely
 		--> the success or failure of manager depends upon the correctness of his decisions
+
+Skills For All Level Managers
+	(Low Level, Mid Level, High Level)
+	1. Public Speaking Skills
+	2. Copywriting Skills
+	3. Leadership Skills
+	4. Financing Skills
+	5. Accounting Skills
+	6. S.M.A.R.T Skills
+	7. Self-Management Skills
+	8. Marketing Skills
+
+Why Business Basics Are Essential for Companies' Survival
+	Back to the original point: business often go bankrupt because they forget about the basics:
+		• The business must have enough cast to cover emergies (liquidity);
+		• The business must have enough assests so that if loans must be paid off, or taxes must be paid, the business can cover these "calls" on its assets 
+		  (solvency); and
+		• The business must continue to be profitable, which means that it continues to bring in more income than revenue, thus building up cash and other
+		  assets (viability).
+	"Basic Business principles. Forget them at your peril."
+
+ 
