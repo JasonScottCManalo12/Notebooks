@@ -170,3 +170,108 @@ Duties and Responsibilities of each
 	• Committees
 	• Shareholders
 	
+Departments in an Organizational Business
+	1. Administrative Department
+	2. Sales Department
+	3. Accounting Department
+	4. Purchasing and Procurement Department
+	5. Personnel Department
+	6. Planning Department
+	7. Transport Department
+	8. Security Department
+	9. Research and Development Department
+	10. Marketing and Advertising Department
+	11. Production and Inventory Department
+	12. Sales Department
+	13. Customer Service Department
+	14. Quality Assurance Department
+	15. Finance Department
+	16. Information and Technology Department
+	17. Human Resources Department
+	18. Risk Management Department
+	19. Legal Affairs Department
+	20. Tax Management Department
+	21. Auditing Department
+	22. Logistics Department
+	23. Procurement Department
+	
+List of Managements
+	1. Project Management
+	2. Business Management
+	3. Marketing Management
+	4. Leadership Management
+	5. Finance Management
+	6. Accounting Management
+	7. Technology Management
+	8. Career Management
+	9. Research Management
+	10. Engineering Management
+	11. Health Management
+	12. Design Management
+	13. Investment Management
+	14. Science Management
+	15. Economics Management
+	16. Computer Management
+	17. College Management
+	18. Adversiting Management
+	19. Law Management
+	20. Government Management
+	21. Curriculum Management
+	22. Behavior Management
+	23. News Management
+	24. Risk Management
+	25. Human Risk Management
+	26. Logistics Management
+	27. Procurement Management
+	28. Auditing Management
+	29. Supply Chain Management
+	
+8 Types of Organisational Structures
+	1. Line Organisational Structure
+	2. Staff or Functional Authority Organisational Structure
+	3. Line and Staff Organisational Structure
+	4. Divisional Organisational Structure
+	5. Project Organisational Structure
+	6. Matrix Organisational Structure
+	7. Hybrid Organisational Structure
+	8. Informal Organisational Structure
+	
+Managerial Skill - Conceptual, Human Relations and Technical
+	https://kalyan-city.blogspot.com/2011/06/managerial-skills-conceptual-human.html
+	1. Conceptual Skill
+		--> ability to visualize (see) the organistion as a whole
+		--> includes Analytical, Creative, and Initiative Skills
+		--> ability to identify the causes of the problems not the symptoms
+		--> problem solving skills
+		--> ability to fix goals and plan for every situation
+		--> top-level managers spend more time in planning, organising, and problem-solving
+	2. Human Relation Skills
+		--> also called Interpersonal Skills
+		--> ability to understand, communicate and work with others
+		--> human relations are required by all managers at all levels of management
+	3. Technical Skills
+		--> ability to perform the given job
+		--> ability to use different machines and tools
+		--> ability to use various procedures and techniques
+		--> they are in-charge of the actual operation
+	4. Communication Skills
+		--> ability to communicate the plans and policies to the workers
+		--> ability to listen and solve the problems of the workers
+		--> ability to encourage a free-flow of communication in the organisation
+	5. Administrative Skill
+		--> ability to make plans
+		--> ability to know how to get the work done
+		--> ability to co-ordinate different activities of the organisation
+		--> ability to control the full organisation
+	6. Leadership Skills
+		--> ability to influence human behavior
+		--> ability to motivate workers and co-leaders
+		--> ability to get things or work done through workers
+	7. Problem Solving Skills
+		--> also called Design Skills
+		--> ability to identify problem
+		--> ability to give a best solution for any specific problem
+	8. Decision Making Skills
+		--> ability to take quick andn correct decisions
+		--> ability to implement decision wisely
+		--> the success or failure of manager depends upon the correctness of his decisions
