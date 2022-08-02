@@ -1,4 +1,4 @@
-# General-Notebook-Vol-1
+# Notebook-Vol-1
 
 System Development Life Cycle
     1. Planning
