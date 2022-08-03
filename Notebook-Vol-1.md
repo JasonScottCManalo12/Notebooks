@@ -76,37 +76,37 @@ Research
 2. Software Development Methodology
 	- Rapid Application Technique
 3. Data Gathering Techniques
-	• Interview
-	• Observation
-	• Document Analysis
-	• Feedback
+	- Interview
+	- Observation
+	- Document Analysis
+	- Feedback
 4. Data Source
-	• Official Receipt
-	• Sales Order
-	• Delivery Document
-	• Purchase Order
-	• Payroll
+	- Official Receipt
+	- Sales Order
+	- Delivery Document
+	- Purchase Order
+	- Payroll
 5. The Present Set-up in managing the
-	• Products
-	• Payroll
+	- Products
+	- Payroll
 6. Fishbone Diagram
 7. Gantt Chart
 8. Design and Development Diagram
-	• Conceptual Design
-	• Hierarchical Input Process Output
-	• Data Flow Diagram'
+	- Conceptual Design
+	- Hierarchical Input Process Output
+	- Data Flow Diagram'
 
 Top 10 Administrative Job Titles
-	1. Administrative Assistant
-	2. Receptionist
-	3. Office Assistant
-	4. Data Entry Clerk
-	5. Medical Receptionist
-	6. Office Manager
-	7. Executive Assistant
-	8. Clerk
-	9. Receptionist/Administrative Assistant
-	10. ???
+1. Administrative Assistant
+2. Receptionist
+3. Office Assistant
+4. Data Entry Clerk
+5. Medical Receptionist
+6. Office Manager
+7. Executive Assistant
+8. Clerk
+9. Receptionist/Administrative Assistant
+10. ???
 	
 Staff
 Supervisor
@@ -126,20 +126,20 @@ Receptionist
 Assistant
 	
 Departments
-	--> Sub Departments
-			--> Job Positions
-					--> Job Titles
+- Sub Departments
+	- Job Positions
+		- Job Titles
 
 Managements
-	--> Sub Managements
-			--> Job Positions
-					--> Job Titles
+- Sub Managements
+	- Job Positions
+		- Job Titles
 
 Functional Areas
-	--> Departments
-			--> Sub Departments
-	--> Managements
-			--> Sub Managements
+- Departments
+	- Sub Departments
+- Managements
+	- Sub Managements
 			
 
 • Managerial Skills
