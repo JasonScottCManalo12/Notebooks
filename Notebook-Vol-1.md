@@ -414,3 +414,28 @@ Structure of collective responsiblity, of the needy and fortune
 7. Requires Little or No Staff
 8. Low Overhead
 9. money Coming in while you sleep
+
+
+### BUSINESS MANAGEMENT
+- How To Write Minute In Business
+- How To Write Memorandum In Business
+- How to Write Bill or Resolution In Business
+- How To Write Mission, Vision, Objectives and Core Values In Business
+- How To Financial Report In Business
+- How To Elect Board Members of the Board of Directors
+- How To Write Solicitation Letter In Business
+- How To Write Unsolicited Letter In Business
+- How To Debate In Business
+- How To Present Reports in Meeting in Business
+- Code of Conduct In Bank Business
+- A motion to Commit In Business
+- "Committee of the Whole" In Business
+- "Quasi Committee of the Whole" In Business
+- Assemblies In Business
+- Corporate Bodies In Business
+- Business Entities In Business
+- Clubc In Business Management
+- Comparative Quality In Business
+- Corporate Governance Codes In Business
+- OECD Principles of Corporate Governance In Business
+- Framework In Business
