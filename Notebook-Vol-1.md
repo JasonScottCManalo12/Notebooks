@@ -477,7 +477,7 @@ Structure of collective responsiblity, of the needy and fortune
 	- Minor In Accounting
 
 
-### Accounting Certificated
+### Accounting Certificates
 - Certified Information Systems Auditor (CISA)
 - Certified Internal Auditor (CIA)
 - Certified Information Technology Professional (CITP)
@@ -493,3 +493,32 @@ Structure of collective responsiblity, of the needy and fortune
 
 
 ### Accounting Sofware Functions
+- Auditing
+- Reporting
+- General Services
+- General Ledgers
+- Accounts Payables and Account Receivables
+- Sales and Billing
+- Inventory and Protection
+
+
+### Search for:
+- Depreciated
+- Revenue
+- Cash Flow
+- Liabilities
+
+### Accouting Equation:
+Assets = Equities
+Assets = Liabilities + Capital
+Capital = Assets - Liabilities
+Liabilities = Assets - Capital
+
+### Rules for Accounting Equation:
+The following rules help in making the accounting equation:
+- Assets
+	- If there is increase in assets, this increase is debited in assets account.
+	- If there is decrease in assets, this decrease credited in assets, this decrease credited in assets account.
+- Liabilities
+	- &#58;
+- Capital
