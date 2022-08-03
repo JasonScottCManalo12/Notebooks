@@ -402,3 +402,15 @@ Structure of personality responsibility, of strength and weakness
 Structure of collective responsiblity, of the needy and fortune
 - Compassion is a tool to become a giver
 `The one who can master emotions can master actions, and the one who master actions is the master of all future realities.`
+
+
+###The 9 Characteristics of an Ideal Business
+1. Do what you love
+2. Stable, Grow, Long-Term Demand
+3. Be Portable
+4. High Profit Margin
+5. Scalability
+6. Low Start-Up Cost
+7. Requires Little or No Staff
+8. Low Overhead
+9. money Coming in while you sleep
