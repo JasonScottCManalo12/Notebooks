@@ -1,6 +1,7 @@
 # Notebook-Vol-1
 
-System Development Life Cycle
+
+###System Development Life Cycle
 1. Planning
 2. System Analysis and Requirements
 3. System Design
@@ -8,8 +9,9 @@ System Development Life Cycle
 5. Integration and Testing
 6. Implementation
 7. Operations and Maintenance
-    
-List of Diagrams
+
+
+###List of Diagrams
 creately.com/diagram-community/t/erd?pg=1&cat=erd
 1. Activity Diagram (UML)
 2. Administration and Security
@@ -70,8 +72,9 @@ creately.com/diagram-community/t/erd?pg=1&cat=erd
 57. Web Mockups
 58. Work Breakdown Structure
 59. Y Chart
-	
-Research
+
+
+###Research
 1. Organizational Chart
 2. Software Development Methodology
 	- Rapid Application Technique
@@ -96,7 +99,8 @@ Research
 	- Hierarchical Input Process Output
 	- Data Flow Diagram'
 
-Top 10 Administrative Job Titles
+
+###Top 10 Administrative Job Titles
 1. Administrative Assistant
 2. Receptionist
 3. Office Assistant
@@ -107,7 +111,8 @@ Top 10 Administrative Job Titles
 8. Clerk
 9. Receptionist/Administrative Assistant
 10. ???
-	
+
+
 Staff
 Supervisor
 Manager
@@ -124,7 +129,8 @@ Patcher
 Master Scheduler
 Receptionist
 Assistant
-	
+
+
 Departments
 - Sub Departments
 	- Job Positions
@@ -148,30 +154,35 @@ Functional Areas
 - Behavioral Skills
 - Technical Skills
 
-Managers
+
+###Managers
 - High Level (C-Suite Managers)
 - Mid Level
 - Low Level
+
 
 Board of Directors
 Committees
 Shareholders
 
-Functions of each:
+
+###Functions of each:
 - Departments
 - Managments
 - Board of Directors
 - Committees
 - Shareholders
 
-Duties and Responsibilities of each
+
+###Duties and Responsibilities of each
 - Departments
 - Managements
 - Board of Directors
 - Committees
 - Shareholders
-	
-Departments in an Organizational Business
+
+
+###Departments in an Organizational Business
 1. Administrative Department
 2. Sales Department
 3. Accounting Department
@@ -195,8 +206,9 @@ Departments in an Organizational Business
 21. Auditing Department
 22. Logistics Department
 23. Procurement Department
-	
-List of Managements
+
+
+###List of Managements
 1. Project Management
 2. Business Management
 3. Marketing Management
@@ -226,8 +238,9 @@ List of Managements
 27. Procurement Management
 28. Auditing Management
 29. Supply Chain Management
-	
-8 Types of Organisational Structures
+
+
+###8 Types of Organisational Structures
 1. Line Organisational Structure
 2. Staff or Functional Authority Organisational Structure
 3. Line and Staff Organisational Structure
@@ -236,48 +249,49 @@ List of Managements
 6. Matrix Organisational Structure
 7. Hybrid Organisational Structure
 8. Informal Organisational Structure
-	
-Managerial Skill - Conceptual, Human Relations and Technical
+
+###Managerial Skill - Conceptual, Human Relations and Technical
 https://kalyan-city.blogspot.com/2011/06/managerial-skills-conceptual-human.html
 1. Conceptual Skill
-- ability to visualize (see) the organistion as a whole
-- includes Analytical, Creative, and Initiative Skills
-- ability to identify the causes of the problems not the symptoms
-- problem solving skills
-- ability to fix goals and plan for every situation
-- top-level managers spend more time in planning, organising, and problem-solving
+	- ability to visualize (see) the organistion as a whole
+	- includes Analytical, Creative, and Initiative Skills
+	- ability to identify the causes of the problems not the symptoms
+	- problem solving skills
+	- ability to fix goals and plan for every situation
+	- top-level managers spend more time in planning, organising, and problem-solving
 2. Human Relation Skills
-- also called Interpersonal Skills
-- ability to understand, communicate and work with others
-- human relations are required by all managers at all levels of management
+	- also called Interpersonal Skills
+	- ability to understand, communicate and work with others
+	- human relations are required by all managers at all levels of management
 3. Technical Skills
-- ability to perform the given job
-- ability to use different machines and tools
-- ability to use various procedures and techniques
-- they are in-charge of the actual operation
+	- ability to perform the given job
+	- ability to use different machines and tools
+	- ability to use various procedures and techniques
+	- they are in-charge of the actual operation
 4. Communication Skills
-- ability to communicate the plans and policies to the workers
-- ability to listen and solve the problems of the workers
-- ability to encourage a free-flow of communication in the organisation
+	- ability to communicate the plans and policies to the workers
+	- ability to listen and solve the problems of the workers
+	- ability to encourage a free-flow of communication in the organisation
 5. Administrative Skill
-- ability to make plans
-- ability to know how to get the work done
-- ability to co-ordinate different activities of the organisation
-- ability to control the full organisation
+	- ability to make plans
+	- ability to know how to get the work done
+	- ability to co-ordinate different activities of the organisation
+	- ability to control the full organisation
 6. Leadership Skills
-- ability to influence human behavior
-- ability to motivate workers and co-leaders
-- ability to get things or work done through workers
+	- ability to influence human behavior
+	- ability to motivate workers and co-leaders
+	- ability to get things or work done through workers
 7. Problem Solving Skills
-- also called Design Skills
-- ability to identify problem
-- ability to give a best solution for any specific problem
+	- also called Design Skills
+	- ability to identify problem
+	- ability to give a best solution for any specific problem
 8. Decision Making Skills
-- ability to take quick andn correct decisions
-- ability to implement decision wisely
-- the success or failure of manager depends upon the correctness of his decisions
+	- ability to take quick andn correct decisions
+	- ability to implement decision wisely
+	- the success or failure of manager depends upon the correctness of his decisions
 
-Skills For All Level Managers
+
+###Skills For All Level Managers
 (Low Level, Mid Level, High Level)
 1. Public Speaking Skills
 2. Copywriting Skills
@@ -288,12 +302,14 @@ Skills For All Level Managers
 7. Self-Management Skills
 8. Marketing Skills
 
-Why Business Basics Are Essential for Companies' Survival
+
+###Why Business Basics Are Essential for Companies' Survival
 Back to the original point: business often go bankrupt because they forget about the basics:
 - The business must have enough cast to cover emergies (liquidity);
 - The business must have enough assests so that if loans must be paid off, or taxes must be paid, the business can cover these "calls" on its assets (solvency); and
 - The business must continue to be profitable, which means that it continues to bring in more income than revenue, thus building up cash and other assets (viability).
 	"Basic Business principles. Forget them at your peril."
 
- Why Companies go Bankrupt?
+
+###Why Companies go Bankrupt?
  	Neg
