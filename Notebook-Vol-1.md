@@ -325,4 +325,59 @@ Neglecting the basic principles of liquidity, solvency, and viability.
 3. Viability
 	- the concept of viability is often discussed with living being (new born, for example) and their ability not only to survive but thrive.
 	- Economic viability means contuining sustainable profits for a business over a period of time. It doesn't mean that every quarter is profitable, which provides for liquidity for emergencies and solvency for current needs.
+
 `Remember that a business can be profitable without a lot of cash. Profits are just on paper; cash is in the bank.`
+
+
+### Answers to Bankruptcy:
+1. company profit and income profit is lower or equal to target profit
+	- cp = ip <= tp
+	- answer:
+	- ip < cp < tp = tp * 1000
+3. Tax
+	- Personal Income
+	- Employee
+	- Employer
+	- Property
+	- Real Estate
+5. Salary
+6. Expenses
+	- Electricity
+	- Space for Rent
+	- Water
+8. Factors
+	- Personal issues
+		- illness
+		- family issues
+		- lack of skills
+		- lack of knowledge
+		- lack of focus
+		- etc.
+	- Business issues
+		- Poor Business Location
+		- Loss of key employees
+		- Lawsuits raised by competitors
+		- inside jobs
+		- fraud
+		- theft
+		- unsettled debts and taxes
+	- Environment Issues
+		- Flood
+		- Storms
+		- Fires
+		- Landslides
+		- Earthquakes
+
+
+### Anger Management
+10 Tips to Tame Your Temper
+1. Think before you speak
+2. Once you're calm, express your anger
+3. Get some exercise
+4. Take a timeout
+5. Identify possible solutions
+6. Stick with "I" statements
+7. Don't hold Grudge
+8. Use humor to release tension
+9. Practice relaxation skills
+10. Know when to seek help
