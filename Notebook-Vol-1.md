@@ -1,13 +1,13 @@
 # Notebook-Vol-1
 
 System Development Life Cycle
-    1. Planning
-    2. System Analysis and Requirements
-    3. System Design
-    4. Software Development
-    5. Integration and Testing
-    6. Implementation
-    7. Operations and Maintenance
+1. Planning
+2. System Analysis and Requirements
+3. System Design
+4. Software Development
+5. Integration and Testing
+6. Implementation
+7. Operations and Maintenance
     
 List of Diagrams
 	creately.com/diagram-community/t/erd?pg=1&cat=erd
@@ -296,4 +296,5 @@ Why Business Basics Are Essential for Companies' Survival
 		  assets (viability).
 	"Basic Business principles. Forget them at your peril."
 
- 
+ Why Companies go Bankrupt?
+ 	Neg
