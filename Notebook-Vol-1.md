@@ -516,9 +516,13 @@ Liabilities = Assets - Capital
 
 ### Rules for Accounting Equation:
 The following rules help in making the accounting equation:
-- Assets
+- Assets&#58;
 	- If there is increase in assets, this increase is debited in assets account.
 	- If there is decrease in assets, this decrease credited in assets, this decrease credited in assets account.
-- Liabilities
-	- &#58;
-- Capital
+- Liabilities&#58;
+	- When liabilities are increased, the outsider's equities are credited and when liabilities are decreased, the outsider's equities are debited.
+- Capital&#58;
+	- When capital is increased, it is credited and when capital is withdrawn, it is debited.
+The rule for personal account is&#58;
+-- Debit the receiver
+-- Credit the giver
