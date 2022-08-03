@@ -439,3 +439,57 @@ Structure of collective responsiblity, of the needy and fortune
 - Corporate Governance Codes In Business
 - OECD Principles of Corporate Governance In Business
 - Framework In Business
+
+
+### College Courses Related To Business
+- Business Administration
+- Accountancy
+- Accounting Information System
+- Internal Auditing
+- Management Accounting
+
+
+### Business Administration Majors
+- Financial Management
+- Human Resources Management
+- Marketing Management
+- Operations Management
+- Office Administration
+- Hospitality Management
+
+
+# ACCOUNTING
+
+
+### Search for:
+- Accounting Policies In Business
+- FRC's Guidance Audit Committee In Business
+- Accounting Equation and Its Rules
+- Journal Entry
+- Trial Balance
+- Balance Statement
+
+
+### Accounting Information Systems
+- Major In Accounting
+	- Minor In Computer Science
+- Major In Computer Science
+	- Minor In Accounting
+
+
+### Accounting Certificated
+- Certified Information Systems Auditor (CISA)
+- Certified Internal Auditor (CIA)
+- Certified Information Technology Professional (CITP)
+- Certified Public Accountant (CPA)
+- Certified Financial Analyst (CFA)
+- Certified Management Accountant (CMA)
+- Enrolled Agent
+- Certified Fraud Examiner (CFE)
+- Certified Government Auditing Professional (CGAP)
+- Certified Bank Auditor (CBA)
+- Certified Financial Manager (CFM)
+- Certified Financial Planner (CFP)
+
+
+### Accounting Sofware Functions
