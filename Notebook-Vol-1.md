@@ -313,6 +313,10 @@ Back to the original point: business often go bankrupt because they forget about
 
 ### Why Companies go Bankrupt?
 Neglecting the basic principles of liquidity, solvency, and viability.
-Liquidity - is the most short-term of these measures because it refers to the ability of a busines to quickly turn assets into cash without loss.
-Solvency - is measured with a business ratio called the "current ratio" which compares current assets (receivables, supplies, and inventory) to current liabilities (those debts you owe that are due within the next year, like your taxes, payroll taxes, and monthly payments on your business loan).
-The "current ratio" is supposed to be 2:1.
+1. Liquidity - is the most short-term of these measures because it refers to the ability of a busines to quickly turn assets into cash without loss.
+2. Solvency - is measured with a business ratio called the "current ratio" which compares current assets (receivables, supplies, and inventory) to current liabilities (those debts you owe that are due within the next year, like your taxes, payroll taxes, and monthly payments on your business loan). 
+	The "current ratio" is supposed to be 2:1.
+	That is, the value of your current assets should be twice the amount of your current liabilities.
+	The principle of solvency is related to liquidity, but it is a little broader.
+	If a business is solvent it has enough assets to cover it liabilities. If all of the creditors of the business called in the loans and demanded payment (kind of like a run on the bank for business), the business would have to sell or dispose of current assets, at a loss.
+3. 
