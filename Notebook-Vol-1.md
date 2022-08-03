@@ -322,4 +322,7 @@ Neglecting the basic principles of liquidity, solvency, and viability.
 	- The principle of solvency is related to liquidity, but it is a little broader.
 	- If a business is solvent it has enough assets to cover it liabilities. 
 	- If all of the creditors of the business called in the loans and demanded payment (kind of like a run on the bank for business), the business would have to sell or dispose of current assets, at a loss.
-3. 
+3. Viability
+	- the concept of viability is often discussed with living being (new born, for example) and their ability not only to survive but thrive.
+	- Economic viability means contuining sustainable profits for a business over a period of time. It doesn't mean that every quarter is profitable, which provides for liquidity for emergencies and solvency for current needs.
+`Remember that a business can be profitable without a lot of cash. Profits are just on paper; cash is in the bank.`
