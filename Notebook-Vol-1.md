@@ -74,27 +74,27 @@ creately.com/diagram-community/t/erd?pg=1&cat=erd
 Research
 1. Organizational Chart
 2. Software Development Methodology
-- Rapid Application Technique
+	- Rapid Application Technique
 3. Data Gathering Techniques
-• Interview
-• Observation
-• Document Analysis
-• Feedback
-	4. Data Source
-			• Official Receipt
-			• Sales Order
-			• Delivery Document
-			• Purchase Order
-			• Payroll
-	5. The Present Set-up in managing the
-			• Products
-			• Payroll
-	6. Fishbone Diagram
-	7. Gantt Chart
-	8. Design and Development Diagram
-			• Conceptual Design
-			• Hierarchical Input Process Output
-			• Data Flow Diagram'
+	• Interview
+	• Observation
+	• Document Analysis
+	• Feedback
+4. Data Source
+	• Official Receipt
+	• Sales Order
+	• Delivery Document
+	• Purchase Order
+	• Payroll
+5. The Present Set-up in managing the
+	• Products
+	• Payroll
+6. Fishbone Diagram
+7. Gantt Chart
+8. Design and Development Diagram
+	• Conceptual Design
+	• Hierarchical Input Process Output
+	• Data Flow Diagram'
 
 Top 10 Administrative Job Titles
 	1. Administrative Assistant
