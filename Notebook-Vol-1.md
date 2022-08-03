@@ -381,3 +381,24 @@ Neglecting the basic principles of liquidity, solvency, and viability.
 8. Use humor to release tension
 9. Practice relaxation skills
 10. Know when to seek help
+
+
+### Be A Conqueror
+Have Highest Virtues:
+- Courage and Bravery
+- Lead no one more than yourself.
+- Take complete responsibility for what happens to yourself.
+- Person's life is the product of their own actions.
+- Must leawrn to work for food.
+- Conquer the weak people through work force.
+- Put Physical, Emotional, and Intellectual in high standards
+- Be Helper
+- Have a good _____ :
+	- Serve those who have nothing, lift them up.
+-Love and live to serve undeserved people, and abandoned by the society.
+Structure of personality responsibility, of strength and weakness
+- Anger is a tool to become strong
+
+Structure of collective responsiblity, of the needy and fortune
+- Compassion is a tool to become a giver
+`The one who can master emotions can master actions, and the one who master actions is the master of all future realities.`
