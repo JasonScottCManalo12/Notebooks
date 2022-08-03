@@ -524,5 +524,5 @@ The following rules help in making the accounting equation:
 - Capital&#58;
 	- When capital is increased, it is credited and when capital is withdrawn, it is debited.
 The rule for personal account is&#58;
-	- Debit the receiver
-	- Credit the giver
+- Debit the receiver
+- Credit the giver
