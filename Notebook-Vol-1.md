@@ -312,4 +312,7 @@ Back to the original point: business often go bankrupt because they forget about
 
 
 ### Why Companies go Bankrupt?
- 	Neg
+Neglecting the basic principles of liquidity, solvency, and viability.
+Liquidity - is the most short-term of these measures because it refers to the ability of a busines to quickly turn assets into cash without loss.
+Solvency - is measured with a business ratio called the "current ratio" which compares current assets (receivables, supplies, and inventory) to current liabilities (those debts you owe that are due within the next year, like your taxes, payroll taxes, and monthly payments on your business loan).
+The "current ratio" is supposed to be 2:1.
