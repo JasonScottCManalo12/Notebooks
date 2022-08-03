@@ -1,7 +1,7 @@
 # Notebook-Vol-1
 
 
-###System Development Life Cycle
+### System Development Life Cycle
 1. Planning
 2. System Analysis and Requirements
 3. System Design
@@ -11,7 +11,7 @@
 7. Operations and Maintenance
 
 
-###List of Diagrams
+### List of Diagrams
 creately.com/diagram-community/t/erd?pg=1&cat=erd
 1. Activity Diagram (UML)
 2. Administration and Security
@@ -74,7 +74,7 @@ creately.com/diagram-community/t/erd?pg=1&cat=erd
 59. Y Chart
 
 
-###Research
+### Research
 1. Organizational Chart
 2. Software Development Methodology
 	- Rapid Application Technique
@@ -100,7 +100,7 @@ creately.com/diagram-community/t/erd?pg=1&cat=erd
 	- Data Flow Diagram'
 
 
-###Top 10 Administrative Job Titles
+### Top 10 Administrative Job Titles
 1. Administrative Assistant
 2. Receptionist
 3. Office Assistant
@@ -155,7 +155,7 @@ Functional Areas
 - Technical Skills
 
 
-###Managers
+### Managers
 - High Level (C-Suite Managers)
 - Mid Level
 - Low Level
@@ -166,7 +166,7 @@ Committees
 Shareholders
 
 
-###Functions of each:
+### Functions of each:
 - Departments
 - Managments
 - Board of Directors
@@ -174,7 +174,7 @@ Shareholders
 - Shareholders
 
 
-###Duties and Responsibilities of each
+### Duties and Responsibilities of each
 - Departments
 - Managements
 - Board of Directors
@@ -182,7 +182,7 @@ Shareholders
 - Shareholders
 
 
-###Departments in an Organizational Business
+### Departments in an Organizational Business
 1. Administrative Department
 2. Sales Department
 3. Accounting Department
@@ -208,7 +208,7 @@ Shareholders
 23. Procurement Department
 
 
-###List of Managements
+### List of Managements
 1. Project Management
 2. Business Management
 3. Marketing Management
@@ -240,7 +240,7 @@ Shareholders
 29. Supply Chain Management
 
 
-###8 Types of Organisational Structures
+### 8 Types of Organisational Structures
 1. Line Organisational Structure
 2. Staff or Functional Authority Organisational Structure
 3. Line and Staff Organisational Structure
@@ -250,7 +250,7 @@ Shareholders
 7. Hybrid Organisational Structure
 8. Informal Organisational Structure
 
-###Managerial Skill - Conceptual, Human Relations and Technical
+### Managerial Skill - Conceptual, Human Relations and Technical
 https://kalyan-city.blogspot.com/2011/06/managerial-skills-conceptual-human.html
 1. Conceptual Skill
 	- ability to visualize (see) the organistion as a whole
@@ -291,7 +291,7 @@ https://kalyan-city.blogspot.com/2011/06/managerial-skills-conceptual-human.html
 	- the success or failure of manager depends upon the correctness of his decisions
 
 
-###Skills For All Level Managers
+### Skills For All Level Managers
 (Low Level, Mid Level, High Level)
 1. Public Speaking Skills
 2. Copywriting Skills
@@ -303,7 +303,7 @@ https://kalyan-city.blogspot.com/2011/06/managerial-skills-conceptual-human.html
 8. Marketing Skills
 
 
-###Why Business Basics Are Essential for Companies' Survival
+### Why Business Basics Are Essential for Companies' Survival
 Back to the original point: business often go bankrupt because they forget about the basics:
 - The business must have enough cast to cover emergies (liquidity);
 - The business must have enough assests so that if loans must be paid off, or taxes must be paid, the business can cover these "calls" on its assets (solvency); and
@@ -311,5 +311,5 @@ Back to the original point: business often go bankrupt because they forget about
 	"Basic Business principles. Forget them at your peril."
 
 
-###Why Companies go Bankrupt?
+### Why Companies go Bankrupt?
  	Neg
