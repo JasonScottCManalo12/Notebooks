@@ -527,3 +527,17 @@ The following rules help in making the accounting equation:
 The rule for personal account is&#58;
 - Debit the receiver
 - Credit the giver
+
+The rule for nominal account is&#58;
+- Debit all expenses and losses
+- Credit all incomes and gains
+
+The rule for real account is&#58;
+- Debit what comes in
+- Credit what goes out
+
+Expenses&#58;
+- Owner's equity is decreased by the amount of revenue expenses
+
+Income or Profits&#58;
+- Owner's equity is increased by the amount of revenue income
