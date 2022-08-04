@@ -742,8 +742,11 @@ Algae are simple
 7. increase the water depth to 4 inches.
 8. Then allow the water level to lower on its own ovre a period of time. Ideally, by the time you harvest them, the plants should no longer be in standing water.
 	> If all goes well, rice is ready to harvest in its fourth month. The stalks will go from green to gold to indicate it is time to harvest. Harvesting rice means cutting and gathering the panicles attached to the stalks. 
+9. To harvest the rice, cut the stalks and allow them to dry, wrapped in a newspaper, for two to three weeks in a warm, dry place.
+10. Once the rice stalks have dried, roast in a very low heat oven (under 200F/93C) for around an hour, then the hulls by hand. That's it; you can now cook with your very own home grown, long grain brown rice.
 
 
+### Grow a Potato
 
 
 
