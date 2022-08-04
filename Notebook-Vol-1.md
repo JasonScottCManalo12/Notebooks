@@ -618,6 +618,7 @@ Income or Profits&#58;
 
 # RESEARCH
 
+
 ### 12 Types of Research Designs
 1. Case-Study Design
 2. Action Research Design
@@ -631,11 +632,13 @@ Income or Profits&#58;
 11. Historical Design
 12. Sequential Research Design
 
+
 ### 4 Key Characteristics of Research Design
 1. Neutrality
 2. Reliability
 3. Validity
 4. Generalization
+
 
 ### Data Collection Techniques
 
@@ -660,3 +663,92 @@ Income or Profits&#58;
 
 
 # AGRICULTURE
+
+### All About Algae
+What are Algae?
+Algae are simple
+
+
+### Storage and Food Safety
+- Store uncooked white rice in an airtight in a cool, dry place. At temperature of 70 degrees.
+- For below, rice can be stored for 10 years or more
+
+
+### Contamination
+- bytoxic heavy metals such as&#58;
+	- cadnium
+	- lead
+	- mercury
+	- arsenic
+
+
+### Specialty Rice
+- Arborio rice (risotto)
+- Sticky rice (glutinous rice or sweet rice)
+	- used in making rice vinegar and Japanese sake
+- Brown rice
+- Basmati rice
+- Jasmine rice
+- Wild rice
+- Wild pecan rice
+
+
+### Benefits of Rice
+
+### Rice Nutritional Facts
+- (186g) 1 cup of cooked, enriched, short-grain whit rice
+- calories&#58; 242
+- fat&#58; 0.4g
+- sodium&#58; 0mg
+- carbohydrates&#58; 53.4g
+- fibr&#58; 0.6g
+- sugar&#58; 0g
+- protein&#58; 4.4g
+- glycemic index&#58; 73
+
+### Vitamins and Minerals
+- B Vitamins (Thiamin, Niacin, and Riboflavin)
+- Iron, Manganese and Magnesium, Selenium (Brown rice)
+
+
+### 5 Best Rice Crops In The Philippines
+16x16 inches
+2cm space in all side
+- Sinandomeng
+- Dinorado
+- Long Grain Rice
+- Jasmine
+- Milagrosa
+
+
+### OPTION 1
+### Growing rice from seed
+### Steps&#58;
+1. Soak the seeds in water for about 36 hours and allow to dry for another 24 hours
+2. Fill a bucket with 6 inches of a mixture of soil and compost.
+3. Add about 5 inches of water to cover the soil.
+4. Even spread the seeds in the bucket and place in warm, sunny area
+5. Periodically add more water to maintain a constant 5-inch depth as plants grow
+
+### OPTION 2
+### Growing Rice from seed
+### Steps&#58;
+1. Find Containers without holes
+2. Purchase rice seed from a gardening supplier or buy long grain brown rice from bulk foods store or in a bag.
+3. Fill the bucket or plastic container with 6 inches of dirt or plotting soil.
+4. Add water up to 2 inches over the soil level. The rice will sink to the dirt.
+5. Keep the bucket in a warm, sunny area and move it a warm place at night. Rice plants don't need too much care from here on out.
+6. Keep the water level at 2 inches or so above the dirt. When the rice plants are 5-6 inches tall,
+7. increase the water depth to 4 inches.
+8. Then allow the water level to lower on its own ovre a period of time. Ideally, by the time you harvest them, the plants should no longer be in standing water.
+	> If all goes well, rice is ready to harvest in its fourth month. The stalks will go from green to gold to indicate it is time to harvest. Harvesting rice means cutting and gathering the panicles attached to the stalks. 
+
+
+
+
+
+
+
+### Search for&#58;
+- The Introverted Leader and The Genius of Opposites by Jennifer Kahnweiler
+- The Art of Savoring 
