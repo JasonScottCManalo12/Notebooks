@@ -638,9 +638,9 @@ Income or Profits&#58;
 4. Generalization
 
 ### Data Collection Techniques
-+----------------------------+-------------------------+
+
 | Data Collection Techniques | Tools Used              |
-+----------------------------+-------------------------+
+|----------------------------|-------------------------|
 | Case Studies               | Encyclopedia            |
 |                            | Grammarly               |
 |                            | Quetext                 |
@@ -657,7 +657,7 @@ Income or Profits&#58;
 | Focus Groups               |                         |
 | Document Analysis          |                         |
 | Feedback                   |                         |
-+----------------------------+-------------------------+
+
 
 
 # AGRICULTURE
