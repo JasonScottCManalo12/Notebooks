@@ -637,8 +637,27 @@ Income or Profits&#58;
 3. Validity
 4. Generalization
 
-### | Data Collection Techniques | Tools Used
-----------------------------------------------
-|  Case Studies | Encyclopedia
-|               | Grammarly
-|               | Quetext
+### Data Collection Techniques
++----------------------------+-------------------------+
+| Data Collection Techniques | Tools Used              |
++----------------------------+-------------------------+
+| Case Studies               | Encyclopedia            |
+|                            | Grammarly               |
+|                            | Quetext                 |
+| Usage Data                 | Suma                    |
+| Checklists                 | Canva                   |
+|                            | Checkli                 |
+|                            | Forgett                 |
+| Interviews                 | Sony ICD u&#42;560      |
+|                            | Learning Space Tool Kit |
+| Surveys                    | Zoho Survery            |
+| Observation                |                         |
+| Questionnaire              |                         |
+| Projective Techniques      |                         |
+| Focus Groups               |                         |
+| Document Analysis          |                         |
+| Feedback                   |                         |
++----------------------------+-------------------------+
+
+
+# AGRICULTURE
