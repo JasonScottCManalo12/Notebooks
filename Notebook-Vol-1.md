@@ -541,3 +541,104 @@ Expenses&#58;
 
 Income or Profits&#58;
 - Owner's equity is increased by the amount of revenue income
+
+### Cashier's Job Duties and Task
+1. Receive Payment by cash, check, credit cards, vouchers, or automatic debits.
+2. Issue Receipts, refunds, credits, or change due to customers.
+3. Count money in cash drawers at the beginning of shifts to ensure that amounts are correct and there is adequate change.
+4. Great customer entering establishments.
+5. Maintain Clean and Orderly checkout areas.
+6. Establish or identify prices for goods, service or admission, and tabulate bill using calculator, cash registers or capital prices scanners.
+
+
+# PROJECT MANAGEMENT
+
+
+- Project Management Software
+- Project Steering In Business
+- Project Management In Business
+- Management Information System
+
+
+### Search for&#58;
+- Jackson Brown Quotes
+- The Art of Being Right - PDFDRIVE
+- Master Data Science
+- Forrest Gump Quotes
+- Art of Argument
+- Art of Persuasion and Influence
+- Art of Command
+- aha.io
+	- examples of Business Model
+- Porter and Lawler of Motivation
+	- (with diagram)
+- 8 ways to motivate without a dime
+
+
+### Search for&#58;
+- Roberts Rules of Order Newly Revised (RONR)
+- Long-Term and Short-term Strategy In Management
+- List of Corporate Titles
+- C-Suite In Management
+- Management Systems
+- List of Departments In Management
+- Branches of Every Management
+- Management Skills List with Examples
+- Task Management (Kanban)
+- List of Staffs In Every Department In Management
+- Functions of Every Department In Management
+- Objectives of Every Department In Managment
+- Responsibilities of Every Department In Management
+- Function Areas of Every Managements
+
+
+# PSYCHOLOGY
+
+
+### Search for&#58;
+- Social and Sporting Groups In Business
+- Psychometric Profiling In Business
+- Steering Mechanism In Business
+- Hierarchy of Needs by Abraham Maslow
+- Basic Principles of Learning
+- Classical Conditioning by Ivan Pavlov
+- Operant Conditioning by Burrhus Skinner
+- Law of Learning by Edward Lee Thorndike
+- Emotional Intelligence by Daniel Goleman
+- Emotional Intelligence by Howard Gardner
+- Gestalt - Insight Theory yb Jon Broadus Watson
+- Purposive Behaviorism
+- Observational Learning by Albert Bandura
+- Aspects of Development
+- Cognitive Development by Jean Piaget
+- Socio-cultural Perspective on Learning and Language by Vygotsky
+- Psychological Development by Erickson
+- Moral Development by Kohlberg
+
+
+# RESEARCH
+
+### 12 Types of Research Designs
+1. Case-Study Design
+2. Action Research Design
+3. Cohort Research Design
+5. Causal Design
+6. Cross Sectional Design
+7. Exploratory Design
+8. Experimental Design
+9. Longitudinal Design
+10. Observational Research Design
+11. Historical Design
+12. Sequential Research Design
+
+### 4 Key Characteristics of Research Design
+1. Neutrality
+2. Reliability
+3. Validity
+4. Generalization
+
+### | Data Collection Techniques | Tools Used
+----------------------------------------------
+|  Case Studies | Encyclopedia
+|               | Grammarly
+|               | Quetext
