@@ -748,6 +748,31 @@ Algae are simple
 
 ### Grow a Potato
 
+Note&#58; The soil is slightly moisture. The soil must be at least 4 inches in depth. Tubers must stay inside the soil. Cover potato cuts with dust sulfur before planting. Cure the digged uo potatoes for 2 weeks.
+
+Growing period is about 90 to 120 days Cover them with 3 to 4 inches. 12 inches apart. Cut the potato in small pieces. Leave 3 to 4 days to heal then plant.
+
+
+### Grow a Chili
+### Steps&#58;
+1. Use bird's eye chili pepper seeds purchased at a garden store or supermarket or you can dry your own.
+2. Place one (1) seed per hole in a seedling tray with potting mix, water.
+3. After 18 to 21 days, transfer to your garden plot or container. Add 100g of organica fertilizer or vermicompost.
+4. Water every three (3) days, only.
+5. After 20 days, fertilize with urea and completer fertilizer to encourage growth of more branches.
+6. Forty (40) after transplanting, add complete fertilizer with potassium; this is to ensure the fruit will be bigger and more plentiful.
+7. After 75 days (from initial planting), your plant will bear its ripened sili fruit.
+
+
+### Grow a Sili Labuyo
+
+### What is Sili Labuyo
+	Siling Labuyo is (Capsicum Frutescens), A Filipino term that refers to "wild hot chili", of which "sili" means hot chili, while "labuyo" means "wild". Siling labuyo grows in the Philippines. It is a perrennial plant with small, tapering fruits, of ten 2-3, at a node. The fruits are red, with some yeloow, purple, or black. The flowers are greenish white or yellowish white.
+	
+### Why plant Siling Labuyo
+
+
+### Steps&#58;
 
 
 
