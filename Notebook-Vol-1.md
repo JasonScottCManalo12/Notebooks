@@ -767,13 +767,36 @@ Growing period is about 90 to 120 days Cover them with 3 to 4 inches. 12 inches 
 ### Grow a Sili Labuyo
 
 ### What is Sili Labuyo
-   Siling Labuyo is (Capsicum Frutescens), A Filipino term that refers to "wild hot chili", of which "sili" means hot chili, while "labuyo" means "wild". Siling labuyo grows in the Philippines. It is a perrennial plant with small, tapering fruits, of ten 2-3, at a node. The fruits are red, with some yeloow, purple, or black. The flowers are greenish white or yellowish white.
+Siling Labuyo is (Capsicum Frutescens), A Filipino term that refers to "wild hot chili", of which "sili" means hot chili, while "labuyo" means "wild". Siling labuyo grows in the Philippines. 
+It is a perrennial plant with small, tapering fruits, of ten 2-3, at a node. The fruits are red, with some yeloow, purple, or black. The flowers are greenish white or yellowish white.
 	
 ### Why plant Siling Labuyo
+1. The leaves are eaten as vegetables.
+2. The leaves are highly nutritious.
+3. The fruitees are high in Vitamins A and C, and capsaicin, the phytochemical responsible for spiciness of peppers, which may have important potential for promoting vascular and metabolic health.
+4. The fruits are used as condiment in soups, stews, and sauces.
+5. The leaf extract is an effective wound healer.
+6. The fruit is used as liniment for the management for osteoathritis.
+7. The fruit extracts are used to control borers and other larval insects. Rats can be controlled by sili labuyo.
+8. The siling labuyo is vanishing, and as, Filipinos, we must plant it for pride and for the future generations.
 
+### How to plant Siling Labuyo in Containers
+1. Climatic and soil requirements
+	- Siling labuyo thrives around the 26.6 C (79.88 F) environment. If you live in a cooler environment, bring container inside the house.
+	- Use sandy loam soil.
+2. Planting
+	- My pot is 10 inches in height and 12 inches in diameter. It can also grow in other containers such as cans and plastic bags
+	- Use soil composed of equal parts of animal manure ( or vermicast), rice hull charcoal, and soil, or your equivalent well-draining soil. Make shallow holes, and sow seeds. Water before and after sowing. Mulch. Provide ppartial shade as seedling. Water regularly. Harden the seedling one week before exposing to the sunlight.
+	- Onc established, hot pepper thrives best in sunlight, although it can also tolerate partial shade. 
+	- Use animal maure and compost (or vermicast) to fertilize or grow hot pepper around basket compost.
+3. Watering
+	- Apply water once a week, or as needed. Mulch can cut watering by as much as 50%. Grasses. papers, sawdust, and manure can be used as mulching.
+4. Pest and Disease Management
+	- The major insects pests pf pepper are thrips, mites, army of worm, fruit fly, and shoot borers. Manage thrips by overhead watering. Shoot and fruit borers can be managed by removing damaged fruits and shoots.
+5. Harvesting
+	- Harvest mature green or fully ripened red fruits.
+	- Seeds can also be extracted from the real fruits. Air-dry and sun-dry seeds for 3-5 days, PLace in plastic bags or clear bottles, seal and store in a cool, dry place or inside the refrigerator. Label properly to indicate variety and date of harvest.
 
-
-### Steps&#58;
 
 
 
