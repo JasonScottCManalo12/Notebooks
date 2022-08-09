@@ -1,4 +1,4 @@
-# &emsp;&emsp;&emsp;&emsp;&emsp;Notebook-Vol-1
+# Notebook-Vol-1
 
 
 ### System Development Life Cycle
@@ -767,8 +767,9 @@ Growing period is about 90 to 120 days Cover them with 3 to 4 inches. 12 inches 
 ### Grow a Sili Labuyo
 
 ### What is Sili Labuyo
-Siling Labuyo is (Capsicum Frutescens), A Filipino term that refers to "wild hot chili", of which "sili" means hot chili, while "labuyo" means "wild". Siling labuyo grows in the Philippines. 
-It is a perrennial plant with small, tapering fruits, of ten 2-3, at a node. The fruits are red, with some yeloow, purple, or black. The flowers are greenish white or yellowish white.
+&emsp;&emsp;Siling Labuyo is (Capsicum Frutescens), A Filipino term that refers to "wild hot chili", of which "sili" means hot chili, while "labuyo" means "wild". Siling labuyo grows in the Philippines. 
+&emsp;&emsp;It is a perrennial plant with small, tapering fruits, of ten 2-3, at a node. The fruits are red, with some yeloow, purple, or black. The flowers are greenish white or yellowish white.
+	
 	
 ### Why plant Siling Labuyo
 1. The leaves are eaten as vegetables.
