@@ -157,3 +157,128 @@ emsp; creately.com <br/>
 57. Web Mockups
 58. Work Breakdown Structure
 59. Y Chart
+
+
+### ???
+1. Organizational Chart
+2. Software Development Methodology
+3. Data Gathering Techniques
+  - Interview
+  - Observation
+  - Document Analysis
+  - Feedback
+4. Data Source
+  - Official Receipt
+  - Sales Order
+  - Delivery Document
+  - Purchase Order
+  - Payroll
+  - Attendance Monitoring System
+5. The Present Set-up in managing the
+  - Products
+  - Payroll
+6. Fishbone Diagram
+7. Gantt Chart
+8. Design and Development Diagram
+  - Conceptual Design
+  - Hierarchical Input Process Output
+  - Data Flow Diagram
+
+
+### Top 10 Administrative Titles
+1. Administrative Assistant
+2. Receptionist
+3. Office Assistant
+4. Data Entry Clerk
+5. Medical Receptionist
+6. Office Manager
+7. Executive Assistant
+8. Clerk
+9. Receptionist/Administrative Assistant
+10. ???
+
+
+### ???
+- Staff
+- Manager
+- Engineer
+- Inspector
+- Analyst
+- Representative
+- Coordinator
+- Agent/Buyer
+- Clerk
+- Planner Scheduler
+- Distributor
+- Receptionist
+- Assistant
+
+
+### ???
+- Departments
+  - Sub Departments
+    - Job Titles
+- Management
+  - Sub Managements
+    - Job Positions
+- Functional Areas
+  - Departments
+    - Sub Departments
+  - Managements
+    - Sub Managemnts
+
+
+### ???
+- Managerial Skills
+- Organizational Skills
+- Conceptual Skills
+- Behavioral Skills
+- Technical Skills
+
+
+### ???
+- Managers
+- Board of Directors
+- Committees
+- Shareholders
+
+
+### Functions of each:
+- Departments
+- Managements
+- Board of Directors
+- Committees
+- Shareholders
+
+
+### Duties and Responsibilities
+- Departments
+- Managements
+- Board of Directors
+- Committees
+- Shareholders
+
+
+### Departments in an Organizational Business
+1. Administrative Department
+2. Sales Department
+3. Accounting Department
+4. Purchasing and Procurement Department
+5. Personnel Department
+6. Planning Department
+7. Transport Department
+8. Security Department
+9. Research and Development Department
+10. Marketing and Advertising Department
+11. Production and Inventory Department
+12. Customer Service Department
+13. Quality Assurance Department
+14. Finance Department
+15. Information and Technology Department
+16. Human Resources Department
+17. Risk Managment Department
+18. Legal Affairs Department
+19. Tax Management Department
+20. Auditing Department
+21. Logistics Department
+22. Procurement Department
