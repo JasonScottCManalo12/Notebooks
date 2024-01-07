@@ -31,53 +31,53 @@
 
 
 **Kindergarten** <br/>
-emsp; K-1 <br/>
-emsp; K-2 <br/>
+&emsp; K-1 <br/>
+&emsp; K-2 <br/>
 
 **Elementary** <br/>
-emsp; Grade 1 <br/>
-emsp; Grade 2 <br/>
-emsp; Grade 3 <br/>
-emsp; Grade 4 <br/>
-emsp; Grade 5 <br/>
-emsp; Grade 6 <br/>
+&emsp; Grade 1 <br/>
+&emsp; Grade 2 <br/>
+&emsp; Grade 3 <br/>
+&emsp; Grade 4 <br/>
+&emsp; Grade 5 <br/>
+&emsp; Grade 6 <br/>
 
 **Secondary** <br/>
-emsp; emsp; **Junior High School**
-emsp; Grade 7 <br/>
-emsp; Grade 8 <br/>
-emsp; Grade 9 <br/>
-emsp; Grade 10 <br/>
-emsp; emsp; **Senior High School**
-emsp; Grade 11 <br/>
-emsp; Grade 12 <br/>
+&emsp; emsp; **Junior High School**
+&emsp; Grade 7 <br/>
+&emsp; Grade 8 <br/>
+&emsp; Grade 9 <br/>
+&emsp; Grade 10 <br/>
+&emsp; emsp; **Senior High School**
+&emsp; Grade 11 <br/>
+&emsp; Grade 12 <br/>
 
 **Alternative Learning System** <br/>
-emsp; ALS 1 <br/>
-emsp; ALS 2 <br/>
+&emsp; ALS 1 <br/>
+&emsp; ALS 2 <br/>
 
 
 ### Web Development
-emsp; **Scripts and Language** <br/>
-emsp; emsp; HTML <br/>
-emsp; emsp; CSS <br/>
-emsp; emsp; JAVASCRIPT <br/>
-emsp; emsp; PHP <br/>
-emsp; emsp; MYSQL <br/>
+&emsp; **Scripts and Language** <br/>
+&emsp; emsp; HTML <br/>
+&emsp; emsp; CSS <br/>
+&emsp; emsp; JAVASCRIPT <br/>
+&emsp; emsp; PHP <br/>
+&emsp; emsp; MYSQL <br/>
 
-emsp; **Browsers** <br/>
-emsp; emsp; Microsoft Edge <br/>
-emsp; emsp; Mozilla Firefox <br/>
-emsp; emsp; Google Chrome <br/>
-emsp; emsp; Safari <br/>
+&emsp; **Browsers** <br/>
+&emsp; emsp; Microsoft Edge <br/>
+&emsp; emsp; Mozilla Firefox <br/>
+&emsp; emsp; Google Chrome <br/>
+&emsp; emsp; Safari <br/>
 
-emsp; **Text Editors** <br/>
-emsp; emsp; Nptepad <br/>
-emsp; emsp; Notepad++ <br/>
-emsp; emsp; Visual Studio Code<br/>
-emsp; emsp; Sublime Text <br/>
-emsp; emsp; Vim <br/>
-emsp; emsp; Atom Text <br/>
+&emsp; **Text Editors** <br/>
+&emsp; emsp; Nptepad <br/>
+&emsp; emsp; Notepad++ <br/>
+&emsp; emsp; Visual Studio Code<br/>
+&emsp; emsp; Sublime Text <br/>
+&emsp; emsp; Vim <br/>
+&emsp; emsp; Atom Text <br/>
 
 
 ### Introduction To Computer
