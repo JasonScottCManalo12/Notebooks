@@ -53,27 +53,27 @@ LEARN TO:
 7. MAKE YOUR ENEMY WATCH UNTIL IT WAS TOO LATE
 8. MAKE YOUR ENEMY BECOME DEPENDENT, WICKED SICK, TYRANT, AND WEAK
 
-LIVE LIKE A LION
-    • WISDOM
-    • POWER
-    • ROYALTY
-    • DIGNITY
-    • COURAGE
-    • JUSTICE
-    • FEROCITY
-    • DOMINION
-    • AUTHORITY
-    • HONOR
-    • STRENGTH
-    • LEADERSHIP
-    • FIERY
-    • LOYALTY
-    • PASSIONATE
-    • INTUITION
-    • GENEROSITY
-    • TERRITORIAL
-    • CONTROLLING
-    • SELF-CONFIDENCE
+LIVE LIKE A LION  <br/>
+    • WISDOM  <br/>
+    • POWER <br/>
+    • ROYALTY  <br/>
+    • DIGNITY  <br/>
+    • COURAGE  <br/>
+    • JUSTICE <br/>
+    • FEROCITY <br/>
+    • DOMINION <br/>
+    • AUTHORITY  <br/>
+    • HONOR <br/>
+    • STRENGTH <br/>
+    • LEADERSHIP <br/>
+    • FIERY <br/>
+    • LOYALTY <br/>
+    • PASSIONATE <br/>
+    • INTUITION <br/>
+    • GENEROSITY <br/>
+    • TERRITORIAL <br/>
+    • CONTROLLING <br/>
+    • SELF-CONFIDENCE <br/>
 
 
 HOLY TRINITY?  <br/>
