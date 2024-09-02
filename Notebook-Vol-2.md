@@ -44,13 +44,13 @@
 
 **Secondary** <br/>
 &emsp; &emsp; **Junior High School**
-&emsp; Grade 7 <br/>
-&emsp; Grade 8 <br/>
-&emsp; Grade 9 <br/>
-&emsp; Grade 10 <br/>
+&emsp; &emsp; &emsp; Grade 7 <br/>
+&emsp; &emsp; &emsp; Grade 8 <br/>
+&emsp; &emsp; &emsp; Grade 9 <br/>
+&emsp; &emsp; &emsp; Grade 10 <br/>
 &emsp; &emsp; **Senior High School**
-&emsp; Grade 11 <br/>
-&emsp; Grade 12 <br/>
+&emsp; &emsp; &emsp; Grade 11 <br/>
+&emsp; &emsp; &emsp; Grade 12 <br/>
 
 **Alternative Learning System** <br/>
 &emsp; ALS 1 <br/>
