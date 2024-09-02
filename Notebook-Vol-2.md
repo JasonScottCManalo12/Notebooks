@@ -59,25 +59,25 @@
 
 ### Web Development
 &emsp; **Scripts and Language** <br/>
-&emsp; emsp; HTML <br/>
-&emsp; emsp; CSS <br/>
-&emsp; emsp; JAVASCRIPT <br/>
-&emsp; emsp; PHP <br/>
-&emsp; emsp; MYSQL <br/>
+&emsp; &emsp; HTML <br/>
+&emsp; &emsp; CSS <br/>
+&emsp; &emsp; JAVASCRIPT <br/>
+&emsp; &emsp; PHP <br/>
+&emsp; &emsp; MYSQL <br/>
 
 &emsp; **Browsers** <br/>
-&emsp; emsp; Microsoft Edge <br/>
-&emsp; emsp; Mozilla Firefox <br/>
-&emsp; emsp; Google Chrome <br/>
-&emsp; emsp; Safari <br/>
+&emsp; &emsp; Microsoft Edge <br/>
+&emsp; &emsp; Mozilla Firefox <br/>
+&emsp; &emsp; Google Chrome <br/>
+&emsp; &emsp; Safari <br/>
 
 &emsp; **Text Editors** <br/>
-&emsp; emsp; Nptepad <br/>
-&emsp; emsp; Notepad++ <br/>
-&emsp; emsp; Visual Studio Code<br/>
-&emsp; emsp; Sublime Text <br/>
-&emsp; emsp; Vim <br/>
-&emsp; emsp; Atom Text <br/>
+&emsp; &emsp; Nptepad <br/>
+&emsp; &emsp; Notepad++ <br/>
+&emsp; &emsp; Visual Studio Code<br/>
+&emsp; &emsp; Sublime Text <br/>
+&emsp; &emsp; Vim <br/>
+&emsp; &emsp; Atom Text <br/>
 
 
 ### Introduction To Computer
@@ -97,7 +97,7 @@
 
 
 ### List of Diagrams
-emsp; creately.com <br/>
+ &emsp; creately.com <br/>
 1. Activity Diagram (UML)
 2. Administration and Security
 3. Amazon Web Services
